@@ -1,4 +1,6 @@
 set t_Co=256
+set number
+colorscheme elflord
 highlight Comment ctermfg=gray
 syntax enable
 set backspace=indent,eol,start
