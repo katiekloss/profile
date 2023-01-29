@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Katie Kloss
+	email = kloss.katherine@gmail.com
+[push]
+	autoSetupRemote = true
